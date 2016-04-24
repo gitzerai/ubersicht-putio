@@ -1,4 +1,4 @@
-command: "python my.widget/putio.widget/get-data.py"
+command: "python putio.widget/get-data.py"
 
 # the refresh frequency in milliseconds
 refreshFrequency: 1000 * 60 * 60
