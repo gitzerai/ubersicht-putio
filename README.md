@@ -26,4 +26,4 @@ Have info about your latest TV Shows available at put.io right on your Mac deskt
 - ITEM_LIMIT - number of items to be shown before 'more' information appears
 
 ## Screenshots
-![Desktop Screenshot 1](https://github.com/gitzerai/ubersicht-putio/blob/master/release/1.0/screenshot.png)
+![Desktop Screenshot 1](https://github.com/gitzerai/ubersicht-putio/blob/master/screenshot.png)
